@@ -1,10 +1,17 @@
-# Supplementary Materials: AnyTalk: Multi-modal Driven Multi-domain Talking Head Generation
+# AnyTalk: Multi-modal Driven Multi-domain Talking Head Generation
 
 ## Contributors: Anonymous
 
+### Run
+```
+  bash run.sh
+```
+
 ### Video Demonstration
-[![Watch the video](assets/thumbnail_video.jpg)](http://youtube.com/watchXYZ)  
-Click on the image above to watch the video on YouTube.
+<video id="video" controls="" preload="none" poster="assets\thumbnail_video.png">
+	<source id="mp4" src="assets/supp_videos.mp4" type="video/mp4">
+</videos>
+
 
 ### Supplementary PDF
 ![PDF Thumbnail](assets/thumbnail_image.png)  
