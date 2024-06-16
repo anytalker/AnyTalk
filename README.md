@@ -8,11 +8,9 @@
 ```
 
 ### Video Demonstration
-<video id="video" controls="" preload="none" poster="assets\thumbnail_video.png">
-	<source id="mp4" src="assets/supp_videos.mp4" type="video/mp4">
-</videos>
 
+https://github.com/anytalker/AnyTalk/assets/172362240/2b4ebc9f-7b2a-44d5-9038-5ef6c6f0f205
 
-### Supplementary PDF
+### Supplementary PDF ([View the complete PDF](assets/supplement_file.pdf))
 ![PDF Thumbnail](assets/thumbnail_image.png)  
-[View the complete PDF](assets/supplement_file.pdf)
+
